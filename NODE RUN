@@ -1,0 +1,16 @@
+Step 1 :
+Run a Nubit light node with a simple command.
+
+curl -sL1 https://nubit.sh | bash
+
+Step 2 :
+Save your Nubit light node pubkey.
+a. Each time you run the command, your light node pubkey will be printed out. Make sure to save it securely.
+
+
+Step 3 :
+Verify your Nubit light node pubkey after 15 minutes.
+a. Once the light node is started, wait about 15 minutes before returning to claim your light node reward.
+b. Copy and paste your light node pubkey into the provided field and click “Verify.”
+c. If your pubkey passes verification, your account will receive 3000 points immediately.
+d. Note that each pubkey can be verified only once, and each account can receive the 3000 points bonus only once.
